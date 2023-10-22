@@ -1,0 +1,15 @@
+#root {
+  /* background-color: darkgray; */
+  /* margin: 0 auto; */
+  padding: 2rem;
+  text-align: center;
+}
+
+.container {
+  width: 35%;
+  margin: auto;
+  padding: 2rem;
+  background-color: lightgray;
+  box-shadow: 8px 8px 10px gray;
+  border-radius: 20px;
+}
